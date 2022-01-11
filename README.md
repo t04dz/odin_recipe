@@ -1,2 +1,2 @@
 # Odin Recipe Project
-The HTML recipe website prject for The Odin Project.
+The HTML recipe website project for The Odin Project.
